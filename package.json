@@ -27,7 +27,7 @@
     "lamassu-coinapult": "^0.4.5",
     "lamassu-coinfloor": "^0.1.2",
     "lamassu-bitgo": "^0.1.3",
-    "lamassu-startwallet": "startcoin-project/lamassu-startwallet",
+    "lamassu-startwallet": "git+ssh://git@github.com:startcoin-project/lamassu-startwallet.git",
     "lodash": "^2.4.1",
     "minimist": "0.0.8",
     "node-uuid": "^1.4.2",
