@@ -15,7 +15,7 @@
     "inquirer": "^0.8.0",
     "joi": "^5.1.0",
     "lamassu-bitcoinaverage": "~1.0.0",
-    "lamassu-bitcoind": "^1.1.0",
+    "lamassu-bitcoind": "git+https://git@github.com/startcoin-project/lamassu-bitcoind.git",
     "lamassu-bitpay": "~1.0.0",
     "lamassu-bitstamp": "^1.0.2",
     "lamassu-blockchain": "^1.1.3",
